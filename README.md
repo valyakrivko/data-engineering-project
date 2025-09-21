@@ -1,8 +1,9 @@
 # data-engineering-project
-Датасет расположен по ссылке:
 
-https://drive.google.com/file/d/1cPNGCNeE7R4A7WFWKFfONGubvaMH-Cck/view?usp=sharing
+Репозиторий для проекта **"Инжиниринг данных (ИТМО)"**.  
 
-Ссылка на оригинальный датасет: 
+## Ссылки на датасеты
 
-https://www.kaggle.com/datasets/bbhatt001/human-microbiome-project?resource=download
+**Ссылка на датасет**: [Google Drive](https://drive.google.com/file/d/1cPNGCNeE7R4A7WFWKFfONGubvaMH-Cck/view?usp=sharing)  
+
+**Исходный источник датасета**: [Kaggle](https://www.kaggle.com/datasets/bbhatt001/human-microbiome-project?resource=download)
