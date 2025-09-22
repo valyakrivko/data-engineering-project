@@ -2,26 +2,26 @@
 
 Репозиторий по проекту **"Инжиниринг управления данными"**.  
 
-## Ссылки на датасеты
+### Ссылки на датасеты
 
 **Ссылка на датасет**: [Google Drive](https://drive.google.com/file/d/1cPNGCNeE7R4A7WFWKFfONGubvaMH-Cck/view?usp=sharing)  
 
-**Исходный источник датасета**: [Kaggle](https://www.kaggle.com/datasets/bbhatt001/human-microbiome-project?resource=download)
+**Источник датасета**: [Kaggle](https://www.kaggle.com/datasets/bbhatt001/human-microbiome-project?resource=download)
 
 ### Настройка виртуального окружения
 
-1. **Создать виртуальное окружение:**
+1. **Создание виртуального окружения:**
    ```bash
    conda create -n my_env python=3.13 pip
    ```
 
-2. **Активировать виртуальное окружение:**
+2. **Активация виртуального окружения:**
   
    ```bash
    conda activate my_env
    ```
 
-3. **Установить необходимые зависимости:**
+3. **Установка необходимых зависимостей:**
    ```bash
    pip install -r requirements.txt
    ```
