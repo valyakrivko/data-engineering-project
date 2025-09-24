@@ -4,9 +4,9 @@
 
 ### Ссылки на датасеты
 
-**Ссылка на датасет**: [Google Drive](https://drive.google.com/file/d/1cPNGCNeE7R4A7WFWKFfONGubvaMH-Cck/view?usp=sharing)  
+**Ссылка на датасет**: [Google Drive](https://drive.google.com/file/d/1yQeGe-12L8FFZ-cdwGnRZm_LrzdKrN4J/view?usp=sharing)  
 
-**Источник датасета**: [Kaggle](https://www.kaggle.com/datasets/bbhatt001/human-microbiome-project?resource=download)
+**Источник датасета**: [Kaggle](https://www.kaggle.com/datasets/amanik000/gastrointestinal-disease-dataset)
 
 ### Настройка виртуального окружения
 
