@@ -2,7 +2,6 @@ import pandas as pd
 import pyarrow as pa
 import numpy as np
 
-# Замените этот ID на ID вашего файла с Google Drive
 FILE_ID = "1yQeGe-12L8FFZ-cdwGnRZm_LrzdKrN4J"
 file_url = f"https://drive.google.com/uc?id={FILE_ID}"
 
@@ -49,7 +48,6 @@ dtype_map = {
 
 try:
     # Загружаем данные из CSV.
-    # Если вы хотите указать типы данных, раскомментируйте 'dtype=dtype_map'.
     raw_data = pd.read_csv(file_url, dtype=dtype_map, on_bad_lines='skip')
 
     # Выводим первые 10 строк для проверки
@@ -66,3 +64,4 @@ try:
 
 except Exception as e:
     print(f"Произошла ошибка: {e}")
+
