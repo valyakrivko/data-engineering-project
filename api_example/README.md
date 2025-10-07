@@ -10,7 +10,7 @@
 
 Для выполнения задания был выбран API, предоставляющий данные о брендах, цене и типах косметических продуктов:
 
-* **Название API:** Makeup API
+* **Название API:** [Makeup API](https://makeup-api.herokuapp.com/).
 * **Конечная точка (Endpoint):** `http://makeup-api.herokuapp.com/api/v1/products.json`
 
 ---
