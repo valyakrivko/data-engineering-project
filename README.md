@@ -49,4 +49,4 @@ python data_loader.py
 
 Для проекта был выполнен Исследовательский анализ данных (EDA), ноутбук расположен в папке notebooks.
 
-**Рендер**: [NBViewer](https://nbviewer.org/github/valyakrivko/data-engineering-project/blob/main/notebooks/EDA.ipynb)
+**Ссылка на рендер ноутбука**: [NBViewer](https://nbviewer.org/github/valyakrivko/data-engineering-project/blob/main/notebooks/EDA.ipynb)
