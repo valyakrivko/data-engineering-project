@@ -21,11 +21,11 @@
 
 1. Создайте виртуальное окружение:
 ```bash
-   python -m venv venv
+   conda create -n env python=3.13 pip
    ```
-2. Активируйте виртуальное окружение (для CMD):
+2. Активируйте виртуальное окружение:
 ```bash
-   venv\Scripts\activate.bat
+   conda activate env
    ```
 3. Установите все необходимые зависимости:
 ```bash
@@ -33,7 +33,7 @@
    ```
 4. Запустите скрипт, находясь в корневой папке проекта (или внутри активированного виртуального окружения):
 ```bash
-   python api_example/api_reader.py
+   python additionals/api_example/api_reader.py
    ```
 
 ## Скриншот вывода скрипта
