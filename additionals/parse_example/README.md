@@ -12,15 +12,15 @@
 
 1. Создайте виртуальное окружение:
 ```bash
-   python -m venv venv
+   conda create -n env python=3.13 pip
    ```
 2. Активируйте виртуальное окружение (для CMD):
 ```bash
-   venv\Scripts\activate.bat
+   conda activate env
    ```
-3. Запустите скрипт, находясь в корневой папке проекта (или внутри активированного виртуального окружения):
+3. Запустите скрипт, находясь в папке проекта (или внутри активированного виртуального окружения):
 ```bash
-   python parser_example/data_parser.py
+   python additionals/parse_example/data_parser.py
    ```
 
 ---
