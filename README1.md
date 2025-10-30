@@ -71,7 +71,11 @@
 python etl/main.py --file-id "1yQeGe-12L8FFZ-cdwGnRZm_LrzdKrN4J"
 ```
 
+## Визуализация данных
 
+Для проекта был выполнен Исследовательский анализ данных (EDA), ноутбук расположен в папке notebooks.
+
+**Ссылка на рендер ноутбука**: [NBViewer](https://nbviewer.org/github/valyakrivko/data-engineering-project/blob/main/notebooks/EDA.ipynb)
 
 
 
