@@ -57,7 +57,7 @@
     cd data-engineering-project
     ```
 
-2.  **Создание и активация виртуального окружения (пример с Conda):**
+2.  **Создание и активация виртуального окружения:**
     ```bash
     conda create -n env python=3.10 pip
     conda activate env
